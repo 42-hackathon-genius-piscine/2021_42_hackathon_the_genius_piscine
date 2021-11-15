@@ -22,5 +22,5 @@
 <br/>
 
 # Made by JCY
-- hyojekim, cheolee, yongmkim
+- hyoJekim, Cheolee, Yongmkim
 - in 42 Seoul Hackathon 2021.10.25 ~ 2021.11.08
