@@ -22,5 +22,5 @@
 <br/>
 
 # Made by JCY
-- hyoJekim, Cheolee, Yongmkim
+- [hyoJekim](https://github.com/Hyoj-Kim), [Cheolee](https://github.com/FeFe2200), [Yongmkim](https://github.com/codeyoma)
 - in 42 Seoul Hackathon 2021.10.25 ~ 2021.11.08
